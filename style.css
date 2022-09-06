@@ -480,6 +480,7 @@ about__link:hover{
     pointer-events: none;
     transition: all .2s ease;
 }
+
 .textarea{
     min-height: 130px;
     resize: vertical;
@@ -503,5 +504,39 @@ about__link:hover{
     transform: translateY(-15px);
     font-size: 12px;
 }
-
 /*contacts end*/
+
+/*footer start*/
+.footer{
+
+}
+
+.footer__wrapper{
+    height: 150px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.copyright{
+    letter-spacing: 0.15em;
+}
+
+.footer__soc{
+    display: flex;
+}
+
+.footer__soc-link{
+    margin-right: 20px;
+    text-decoration: none;
+}
+
+.footer__soc-link:last-child{
+    margin-right: 0;
+}
+
+.footer__soc-link img{
+    height: 25px;
+}
+
+/*footer end*/
