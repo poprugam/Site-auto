@@ -1,2 +1,2 @@
 # Site-auto
-LP (html+css)
+LP (html+css+images)
